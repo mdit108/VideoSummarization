@@ -1,0 +1,1 @@
+This implementation summarizes a video, by using a Deep Learning framework. For references contact author.
